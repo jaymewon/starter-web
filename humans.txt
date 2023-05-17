@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jayme 	Software Developer	jwon@ndsu.edu
 
 # THANKS
 
