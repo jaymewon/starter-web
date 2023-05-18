@@ -17,3 +17,4 @@ More commit
 
 This is the contribute
 More changes here
+Stash Example
